@@ -1,0 +1,93 @@
+[
+  {
+    "file": "victoria-home.html",
+    "label": "Home Insurance in Victoria, BC",
+    "group": "victoria",
+    "sha256": "2f57be23a9e7dd998e09ed801e4758f50066408fa4940e7f3cff52f2e5a1f18b",
+    "bytes": 11456
+  },
+  {
+    "file": "victoria-auto.html",
+    "label": "Car Insurance & ICBC Autoplan in Victoria, BC",
+    "group": "victoria",
+    "sha256": "ba730499a48ce5994423633ee5584aca6e48efb9844d878dc1ba125d9e10367c",
+    "bytes": 9718
+  },
+  {
+    "file": "victoria-business.html",
+    "label": "Business Insurance in Victoria, BC",
+    "group": "victoria",
+    "sha256": "23bf5785e090ff55a667cbe3584729a4a91d87e4837c48eecb7373a04898546e",
+    "bytes": 10783
+  },
+  {
+    "file": "victoria-condo.html",
+    "label": "Condo Insurance in Victoria, BC",
+    "group": "victoria",
+    "sha256": "588f625585bb8f0a813d11bc8377f6c72a512ae8bf0baf8a5fa16921a365b72a",
+    "bytes": 9132
+  },
+  {
+    "file": "victoria-tenant.html",
+    "label": "Tenant Insurance in Victoria, BC",
+    "group": "victoria",
+    "sha256": "73bbd2933ba7903351e311130165e11d89aaabcf75495eeb38509056dba02cd1",
+    "bytes": 8330
+  },
+  {
+    "file": "victoria-boat.html",
+    "label": "Boat & Marine Insurance in Victoria, BC",
+    "group": "victoria",
+    "sha256": "843b532728cea007d32ebdb3128e82f5ac4ee881f8afb33c11610610b4b725a5",
+    "bytes": 9142
+  },
+  {
+    "file": "victoria-travel.html",
+    "label": "Travel Insurance in Victoria, BC",
+    "group": "victoria",
+    "sha256": "096c18ab7ac3cf0501b50d257d87d99b4ff1cebbfc60d977b1c5277eb5afb259",
+    "bytes": 6613
+  },
+  {
+    "file": "victoria-life.html",
+    "label": "Life Insurance in Victoria, BC",
+    "group": "victoria",
+    "sha256": "7d6e0321d4df88b8a396f22afc0a8f6974ec8196629b70355fe9f4f17d2e868d",
+    "bytes": 6906
+  },
+  {
+    "file": "victoria-special-events.html",
+    "label": "Special Event Insurance in Victoria, BC",
+    "group": "victoria",
+    "sha256": "42382076b64e7966efcf00d577136984878312c1f860d22f1d0c0a23f79b636b",
+    "bytes": 9616
+  },
+  {
+    "file": "squamish-home.html",
+    "label": "Home Insurance in Squamish, Whistler & the Sea-to-Sky Corridor",
+    "group": "squamish",
+    "sha256": "b454168be9fee783f7ac2bba3abf754328bdd3a26d55e9241ba69c404b53c765",
+    "bytes": 10353
+  },
+  {
+    "file": "squamish-auto.html",
+    "label": "Car Insurance and ICBC Autoplan in Squamish",
+    "group": "squamish",
+    "sha256": "32b200190c932b4a244dee7078f2e95883a02c7d196c17ab74c098fe4c14dee0",
+    "bytes": 10253
+  },
+  {
+    "file": "squamish-business.html",
+    "label": "Business Insurance in Squamish, Whistler & the Sea-to-Sky",
+    "group": "squamish",
+    "sha256": "8f4664c068a722f7993a26bb6a803d9d00d0df9e7f062b71cd1d2b9c8357f109",
+    "bytes": 10505
+  },
+  {
+    "file": "squamish-tenant.html",
+    "label": "Tenant Insurance in Squamish & Whistler",
+    "group": "squamish",
+    "sha256": "8ad50570c07e8bb469cb8fdd8abf6487db5345925b7a3a44ed88bb2f33c30d0f",
+    "bytes": 9754
+  }
+]
